@@ -94,7 +94,7 @@ while True:
 
      
      elif option == "3":
-          print("Cerrando App")
+          print("Cerrando App lesgoo")
           break
      
      else:
